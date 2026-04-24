@@ -1,5 +1,5 @@
+# Inventory reorder checking script generated with GitHub Copilot
 import csv
-
 def read_inventory_and_find_reorder_items(filename='inventory_data.csv'):
     """
     Reads inventory data from CSV and identifies products that need reordering.
